@@ -1,0 +1,7 @@
+{
+    "random": true,
+    "amountRangeMin": 1000000000,
+    "amountRangeMax": 10000000000,
+    "timeoutRangeMSMin": 1000,
+    "timeoutRangeMSMax": 2000
+}
